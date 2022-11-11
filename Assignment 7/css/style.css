@@ -1,0 +1,13 @@
+#london-wrapper, #windsor-wrapper{
+    height: 450px;
+    display: none;
+}
+
+.modal {
+    position: absolute;
+    background-color: rgb(183, 190, 233);
+    border: 2px solid black;
+    height: 800px;
+    padding-bottom: 25px;
+    padding: 15px;
+}

@@ -1,0 +1,55 @@
+html {
+  display: grid;
+  align-items: center;
+  background-color: blue;
+  justify-items: center;
+}
+
+body {
+  background-color: white;
+  padding: 50px 100px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.photo-thumbnails {
+  background: rgb(183, 190, 233);
+  width: 650px;
+  padding-left: 150px;
+  display: block;
+}
+
+#photo-viewer .photo-box.is-loading::after {
+  color: black;
+  top: calc(50% - 30px);
+  left: calc(50% - 70px);
+  content: "Loading pictures";
+  position: absolute;
+}
+
+#photo-viewer .photo-box img {
+  max-width: 800px;
+  top: 50%;
+  left: 50%;
+  position: absolute;
+}
+
+#photo-viewer .photo-box {
+  border: 10px solid rgb(183, 190, 233);
+  width: 800px;
+  height: 450px;
+  position: relative;
+  display: block;
+}
+
+#photo-viewer a.active img {
+  border: 3px solid black;
+}
+
+#photo-viewer .thumbnail-anchor img {
+  border: 3px solid black;
+  width: 10%;
+  margin: 30px;
+}
+
+
