@@ -1,0 +1,53 @@
+{
+    "cast": [
+        {
+            "FirstName": "Winona",
+            "LastName": "Horowitz",
+            "Age": "51",
+            "Nationality": "American",
+            "FictionName": "Joyce Byers"
+        },
+        {
+            "FirstName": "David",
+            "LastName": "Harbour",
+            "Age": "47",
+            "Nationality": "American",
+            "FictionName": "Jim Hopper"
+        },
+        {
+            "FirstName": "Millie",
+            "LastName": "Brown",
+            "Age": "18",
+            "Nationality": "Spanish",
+            "FictionName": "Jane"
+        },
+        {
+            "FirstName": "Finn",
+            "LastName": "Wolfhard",
+            "Age": "19",
+            "Nationality": "Canadian",
+            "FictionName": "Mike"
+        },
+        {
+            "FirstName": "Gaetano",
+            "LastName": "Matarazzo",
+            "Age": "20",
+            "Nationality": "American",
+            "FictionName": "Dustin"
+        },
+        {
+            "FirstName": "Caleb",
+            "LastName": "McLaughlin",
+            "Age": "21",
+            "Nationality": "American",
+            "FictionName": "Lucas"
+        },
+        {
+            "FirstName": "Noah",
+            "LastName": "Schnapp",
+            "Age": "18",
+            "Nationality": "American",
+            "FictionName": "Will Byers"
+        }
+    ]
+}
