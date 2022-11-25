@@ -1,0 +1,60 @@
+{"inmates":[
+             {
+               "FirstName": "Winona",
+            "LastName": "Horowitz",
+            "Age": "51",
+            "Nationality": "American",
+            "FictionName": "Joyce Byers",
+            "DateOfBirth": "1971-10-29"
+            
+             },
+             {
+               "FirstName": "David",
+               "LastName": "Harbour",
+               "Age": "47",
+               "Nationality": "American",
+               "FictionName": "Jim Hopper",
+               "DateOfBirth": "1975-04-10"
+             },
+             {
+               "FirstName": "Millie",
+               "LastName": "Brown",
+               "Age": "18",
+               "Nationality": "Spanish",
+               "FictionName": "Jane",
+               "DateOfBirth": "2004-02-19"
+             },
+             {
+               "FirstName": "Finn",
+               "LastName": "Wolfhard",
+               "Age": "19",
+               "Nationality": "Canadian",
+               "FictionName": "Mike",
+               "DateOfBirth": "2002-12-23"
+             },
+             {
+               "FirstName": "Gaetano",
+               "LastName": "Matarazzo",
+               "Age": "20",
+               "Nationality": "American",
+               "FictionName": "Dustin",
+               "DateOfBirth": "2002-09-08"
+             },
+             {
+               "FirstName": "Caleb",
+               "LastName": "McLaughlin",
+               "Age": "21",
+               "Nationality": "American",
+               "FictionName": "Lucas",
+               "DateOfBirth": "2001-10-13"
+             },
+             {
+               "FirstName": "Noah",
+               "LastName": "Schnapp",
+               "Age": "18",
+               "Nationality": "American",
+               "FictionName": "Will Byers",
+               "DateOfBirth": "2003-10-03"
+             }
+         
+]}

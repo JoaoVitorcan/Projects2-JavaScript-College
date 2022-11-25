@@ -1,0 +1,30 @@
+
+.table-assignment {
+    width: 100%;
+    table-layout: fixed;
+}
+
+.table-assignment thead tr {
+    background-color:red;
+    text-align: center;
+}
+
+th a {
+    text-transform: uppercase;
+    color: white;
+}
+
+.table-assignment tbody tr {
+    background-color: rgb(245, 237, 237);
+    text-align: center;
+}
+
+.asc-chevron,
+.desc-chevron {
+    display: none;
+}
+
+.ascending .asc-chevron,
+.descending .desc-chevron {
+    display: contents;
+}
